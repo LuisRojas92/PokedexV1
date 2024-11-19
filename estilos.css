@@ -1,0 +1,43 @@
+body {
+  background-color: #38b5ef;
+  height: 100%;
+}
+
+h5 {
+  font-size: 50px;
+  color: rgb(9, 9, 8);
+  font-weight: 700;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: sans-serif;
+  text-decoration-color: #11998e;
+  color: #11998e;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+.principal {
+  margin-top: 50px;
+  font-family: "Roboto";
+}
+
+.card text {
+  top: 20px;
+  left: 30px;
+  position: absolute;
+  text-align: center;
+  width: 1400px;
+  margin: auto;
+}
+
+.card-header-first {
+  margin-top: -25px;
+  height: 300px;
+  top: 50px;
+  background: linear-gradient(-90deg, #11998e, #38b5ef);
+  box-shadow: 1px 5px 15px #a2a2a2;
+}
